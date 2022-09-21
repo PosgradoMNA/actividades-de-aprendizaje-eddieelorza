@@ -10,8 +10,10 @@
 ## Curso | Python for Data Science
 
 * Semana 1:
-[☑️ ARCHIVOS DEL CURSO | MODULOS 1 - 3](https://github.com/PosgradoMNA/actividades-de-aprendizaje-eddieelorza/tree/main/curso_ibm
-)
+[☑️ ARCHIVOS DEL CURSO | MODULOS 1 - 3](https://github.com/PosgradoMNA/actividades-de-aprendizaje-eddieelorza/tree/main/curso_ibm)
+
+* Semana 2:
+[☑️ ARCHIVO DEL CURSO | MODULO 4](https://github.com/PosgradoMNA/actividades-de-aprendizaje-eddieelorza/blob/main/modulo_4.ipynb)
 
 ## 🛠 Skills
 Python
