@@ -7,10 +7,10 @@
  Aqui estarán mis actividades de cada semana
 
  
-## CURSO IBM MODULOS 1 - 3
+## Curso | Python for Data Science
 
-
-[☑️ ARCHIVOS DEL CURSO](https://github.com/PosgradoMNA/actividades-de-aprendizaje-eddieelorza/tree/main/curso_ibm
+* Semana 1:
+[☑️ ARCHIVOS DEL CURSO | MODULOS 1 - 3](https://github.com/PosgradoMNA/actividades-de-aprendizaje-eddieelorza/tree/main/curso_ibm
 )
 
 ## 🛠 Skills
