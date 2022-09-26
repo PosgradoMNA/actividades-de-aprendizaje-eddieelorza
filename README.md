@@ -14,7 +14,7 @@
 [ARCHIVO DEL CURSO | MODULO 4](https://github.com/PosgradoMNA/actividades-de-aprendizaje-eddieelorza/blob/main/modulo_4.ipynb)
 
 * ## Certificado del curso:
-* ![App Screenshot](/certificaci%C3%B3n/certificado.png/468x300)
+* ![App Screenshot](/certificaci%C3%B3n/certificado.png)
 
 ## 🛠 Skills
 🐍 Python
