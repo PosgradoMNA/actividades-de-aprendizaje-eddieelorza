@@ -12,6 +12,9 @@
 
 * 📁 Semana 2:
 [ARCHIVO DEL CURSO | MODULO 4](https://github.com/PosgradoMNA/actividades-de-aprendizaje-eddieelorza/blob/main/modulo_4.ipynb)
+* 📁 Semana 3:
+[ARCHIVO DEL CURSO | MODULO 5](https://colab.research.google.com/github/PosgradoMNA/actividades-de-aprendizaje-eddieelorza/blob/main/modulo_5.ipynb)
+
 
 * ## Certificado del curso:
 * ![App Screenshot](/certificaci%C3%B3n/certificado.png)
