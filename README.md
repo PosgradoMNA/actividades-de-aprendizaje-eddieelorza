@@ -4,6 +4,12 @@
 ----
 **EDDIE G. ELORZA RUIZ | A01793547**
 
+>Materia: Ciencia y analítica de datos (Gpo 10)
+
+>Profesor Titular: Jobish Vallikavungal
+
+>Profesor Tutor: Victoria Guerrero Orozco
+
  > Aqui estarán mis actividades de cada semana
 
 ----
