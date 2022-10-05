@@ -19,7 +19,8 @@
 
 
 * ## Certificado del curso:
-* ![App Screenshot](/certificaci%C3%B3n/certificado.png)
+<img src="https://github.com/PosgradoMNA/actividades-de-aprendizaje-eddieelorza/blob/main/Certificaciones/certificado.png?raw=true" width="230" />
+
 
 ## 🛠 Skills
 🐍 Python
