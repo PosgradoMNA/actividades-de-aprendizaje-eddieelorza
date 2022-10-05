@@ -7,7 +7,7 @@
  > Aqui estarán mis actividades de cada semana
 
  
-## 📈 Curso | Python for Data Science
+## 📈 Curso 1 | Python for Data Science (IBM)
 
 * 📁 Semana 1:
 [ARCHIVOS DEL CURSO | MODULOS 1 - 3](https://github.com/PosgradoMNA/actividades-de-aprendizaje-eddieelorza/tree/main/IBM-Python-for-Data-Science)
@@ -17,10 +17,12 @@
 * 📁 Semana 3:
 [ARCHIVO DEL CURSO | MODULO 5](https://colab.research.google.com/github/PosgradoMNA/actividades-de-aprendizaje-eddieelorza/blob/main/modulo_5.ipynb)
 
-
 * ## Certificado del curso:
 <img src="https://github.com/PosgradoMNA/actividades-de-aprendizaje-eddieelorza/blob/main/Certificaciones/certificado.png?raw=true" width="230" />
-
+----
+## 📈 Curso 2 | Data Analysis with Python (IBM)
+Semana 4:
+[ARCHIVOS DEL CURSO | MODULO 1](https://github.com/PosgradoMNA/actividades-de-aprendizaje-eddieelorza/tree/main/IBM-Python-for-Data-Science)
 
 ## 🛠 Skills
 🐍 Python
