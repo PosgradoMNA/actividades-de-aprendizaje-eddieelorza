@@ -16,15 +16,15 @@
 [ARCHIVO DEL CURSO | MODULO 4](https://github.com/PosgradoMNA/actividades-de-aprendizaje-eddieelorza/blob/main/IBM-Python-for-Data-Science/modulo_4.ipynb)
 * 📁 Semana 3:
 [ARCHIVO DEL CURSO | MODULO 5](https://colab.research.google.com/github/PosgradoMNA/actividades-de-aprendizaje-eddieelorza/blob/main/modulo_5.ipynb)
+* 🎖 Certificación:
+[CERTIFICADO | Python for Data Science (IBM)](https://github.com/PosgradoMNA/actividades-de-aprendizaje-eddieelorza/blob/main/Certificaciones/certificado.png?raw=true)
 
-* ## Certificado del curso:
-<img src="https://github.com/PosgradoMNA/actividades-de-aprendizaje-eddieelorza/blob/main/Certificaciones/certificado.png?raw=true" width="230" />
 
 ----
 
 ## 📈 Curso 2 | Data Analysis with Python (IBM)
 * 📁 Semana 4:
-* [ARCHIVOS DEL CURSO | MODULO 1](https://github.com/PosgradoMNA/actividades-de-aprendizaje-eddieelorza/tree/main/IBM-Python-for-Data-Science)
+[ARCHIVOS DEL CURSO | MODULO 1](https://github.com/PosgradoMNA/actividades-de-aprendizaje-eddieelorza/tree/main/IBM-Python-for-Data-Science)
 
 ## 🛠 Skills
 🐍 Python
