@@ -31,7 +31,7 @@
 
 ## 📈 Curso 2 | Data Analysis with Python (IBM)
 * 📁 Semana 4:
-[ARCHIVOS DEL CURSO | MODULO 1](https://github.com/PosgradoMNA/actividades-de-aprendizaje-eddieelorza/tree/main/IBM-Python-for-Data-Science)
+[ARCHIVOS DEL CURSO | MODULO 1](https://github.com/PosgradoMNA/actividades-de-aprendizaje-eddieelorza/blob/main/IBM-Data-Analysis-with-Python/Modulo_1.ipynb)
 
 ----
 
