@@ -19,7 +19,9 @@
 
 * ## Certificado del curso:
 <img src="https://github.com/PosgradoMNA/actividades-de-aprendizaje-eddieelorza/blob/main/Certificaciones/certificado.png?raw=true" width="230" />
+
 ----
+
 ## 📈 Curso 2 | Data Analysis with Python (IBM)
 * 📁 Semana 4:
 * [ARCHIVOS DEL CURSO | MODULO 1](https://github.com/PosgradoMNA/actividades-de-aprendizaje-eddieelorza/tree/main/IBM-Python-for-Data-Science)
