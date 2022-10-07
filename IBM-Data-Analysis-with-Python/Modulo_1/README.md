@@ -14,7 +14,7 @@
 
 ----
 * 📁 Semana 4:
-[NOTEBOOK | MODULOS 1](https://github.com/PosgradoMNA/actividades-de-aprendizaje-eddieelorza/tree/main/IBM-Python-for-Data-Science)
+[NOTEBOOK | MODULOS 1](https://github.com/PosgradoMNA/actividades-de-aprendizaje-eddieelorza/blob/main/IBM-Data-Analysis-with-Python/Modulo_1/Notebook_Modulo_1.ipynb)
 <br>
 
 <img src="./Graded Review Questions 1.png" width="500" />
