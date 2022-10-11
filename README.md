@@ -33,6 +33,9 @@
 * 📁 Semana 4:
 [ARCHIVOS DEL CURSO | MODULO 1](https://github.com/PosgradoMNA/actividades-de-aprendizaje-eddieelorza/tree/main/IBM-Data-Analysis-with-Python/Modulo_1)
 
+* 📁 Semana 5:
+[ARCHIVOS DEL CURSO | MODULO 2]([https://github.com/PosgradoMNA/actividades-de-aprendizaje-eddieelorza/tree/main/IBM-Data-Analysis-with-Python/Modulo_1](https://github.com/PosgradoMNA/actividades-de-aprendizaje-eddieelorza/tree/main/IBM-Data-Analysis-with-Python/Modulo_2))
+
 ----
 
 ## 🛠 Skills
