@@ -1,6 +1,6 @@
 <img src="https://static.wikia.nocookie.net/tecdemonterrey/images/1/1b/Logo_Tec_azul.png/revision/latest?cb=20190219041656&path-prefix=es" width="230" bg-color="FFFFFF" />
 
-# MODULO 2 - A01793547
+# MODULO 3 - A01793547
 ----
 **EDDIE G. ELORZA RUIZ | A01793547**
 
