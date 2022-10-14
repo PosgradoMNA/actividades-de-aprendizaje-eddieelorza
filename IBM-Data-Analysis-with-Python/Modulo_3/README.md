@@ -14,7 +14,7 @@
 
 ----
 * 📁 Semana 4:
-[NOTEBOOK | MODULOS 2](https://github.com/PosgradoMNA/actividades-de-aprendizaje-eddieelorza/blob/main/IBM-Data-Analysis-with-Python/Modulo_2/Notebook_Modulo_2.ipynb)
+[NOTEBOOK | MODULOS 2]()
 <br>
 
 <img src="./Graded Review Questions 2.png" width="500" />
