@@ -17,4 +17,4 @@
 [NOTEBOOK | MODULOS 3](https://github.com/PosgradoMNA/actividades-de-aprendizaje-eddieelorza/blob/main/IBM-Data-Analysis-with-Python/Modulo_3/Notebook_Modulo_3.ipynb)
 <br>
 
-<img src="./Graded Review Questions 2.png" width="500" />
+<img src="./Graded Review Questions 3.png" width="500" />
